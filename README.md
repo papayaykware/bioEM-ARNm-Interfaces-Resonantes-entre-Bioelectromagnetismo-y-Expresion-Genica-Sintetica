@@ -1,4 +1,4 @@
-# bioEM-ARNm-Interfaces-Resonantes-entre-Bioelectromagnetismo-y-Expresi-n-G-nica-Sint-tica
+# bioEM-ARNm-Interfaces-Resonantes-entre-Bioelectromagnetismo-y-Expresion-Genica-Sintetica
 Este repositorio reúne artículos técnicos, modelos teóricos y visualizaciones sobre la interacción entre campos bioelectromagnéticos y la biología del ARNm sintético.
 
 # bioEM-ARNm
